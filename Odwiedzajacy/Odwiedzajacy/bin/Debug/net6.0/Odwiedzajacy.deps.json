@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Odwiedzajacy/1.0.0": {
+        "runtime": {
+          "Odwiedzajacy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odwiedzajacy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

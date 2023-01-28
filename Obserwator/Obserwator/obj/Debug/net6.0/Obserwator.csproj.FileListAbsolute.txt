@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\bin\Debug\net6.0\Obserwator.exe
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\bin\Debug\net6.0\Obserwator.deps.json
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\bin\Debug\net6.0\Obserwator.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\bin\Debug\net6.0\Obserwator.dll
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\bin\Debug\net6.0\Obserwator.pdb
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.dll
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\refint\Obserwator.dll
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.pdb
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\Obserwator.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Obserwator\Obserwator\obj\Debug\net6.0\ref\Obserwator.dll
