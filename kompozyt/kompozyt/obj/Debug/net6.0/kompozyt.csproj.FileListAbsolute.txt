@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\bin\Debug\net6.0\kompozyt.exe
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\bin\Debug\net6.0\kompozyt.deps.json
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\bin\Debug\net6.0\kompozyt.runtimeconfig.json
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\bin\Debug\net6.0\kompozyt.dll
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\bin\Debug\net6.0\kompozyt.pdb
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.dll
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\refint\kompozyt.dll
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.pdb
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\kompozyt.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\kompozyt\kompozyt\obj\Debug\net6.0\ref\kompozyt.dll
