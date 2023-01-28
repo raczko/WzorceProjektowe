@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\bin\Debug\net6.0\FabrykaAbs.exe
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\bin\Debug\net6.0\FabrykaAbs.deps.json
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\bin\Debug\net6.0\FabrykaAbs.runtimeconfig.json
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\bin\Debug\net6.0\FabrykaAbs.dll
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\bin\Debug\net6.0\FabrykaAbs.pdb
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.dll
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\refint\FabrykaAbs.dll
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.pdb
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\FabrykaAbs.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\FabrykaAbs\FabrykaAbs\obj\Debug\net6.0\ref\FabrykaAbs.dll

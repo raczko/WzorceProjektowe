@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\Wiktor\source\repos\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\Wiktor\source\repos\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\Wiktor\source\repos\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
