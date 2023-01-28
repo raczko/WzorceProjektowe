@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\prototyp\prototyp\bin\Debug\net6.0\prototyp.exe
+C:\Users\Wiktor\source\repos\prototyp\prototyp\bin\Debug\net6.0\prototyp.deps.json
+C:\Users\Wiktor\source\repos\prototyp\prototyp\bin\Debug\net6.0\prototyp.runtimeconfig.json
+C:\Users\Wiktor\source\repos\prototyp\prototyp\bin\Debug\net6.0\prototyp.dll
+C:\Users\Wiktor\source\repos\prototyp\prototyp\bin\Debug\net6.0\prototyp.pdb
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.dll
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\refint\prototyp.dll
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.pdb
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\prototyp.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\prototyp\prototyp\obj\Debug\net6.0\ref\prototyp.dll
