@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Pylek\Pylek\bin\Debug\net6.0\Pylek.exe
+C:\Users\Wiktor\source\repos\Pylek\Pylek\bin\Debug\net6.0\Pylek.deps.json
+C:\Users\Wiktor\source\repos\Pylek\Pylek\bin\Debug\net6.0\Pylek.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Pylek\Pylek\bin\Debug\net6.0\Pylek.dll
+C:\Users\Wiktor\source\repos\Pylek\Pylek\bin\Debug\net6.0\Pylek.pdb
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.dll
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\refint\Pylek.dll
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.pdb
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\Pylek.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Pylek\Pylek\obj\Debug\net6.0\ref\Pylek.dll
