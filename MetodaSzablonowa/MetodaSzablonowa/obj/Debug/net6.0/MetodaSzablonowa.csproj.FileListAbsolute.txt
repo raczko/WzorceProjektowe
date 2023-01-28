@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.exe
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.deps.json
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.runtimeconfig.json
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.dll
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.pdb
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.dll
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\refint\MetodaSzablonowa.dll
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.pdb
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\ref\MetodaSzablonowa.dll

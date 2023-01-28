@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+C:\Users\Wiktor\source\repos\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+C:\Users\Wiktor\source\repos\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+C:\Users\Wiktor\source\repos\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll

@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Strategia\Strategia\bin\Debug\net6.0\Strategia.exe
+C:\Users\Wiktor\source\repos\Strategia\Strategia\bin\Debug\net6.0\Strategia.deps.json
+C:\Users\Wiktor\source\repos\Strategia\Strategia\bin\Debug\net6.0\Strategia.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Strategia\Strategia\bin\Debug\net6.0\Strategia.dll
+C:\Users\Wiktor\source\repos\Strategia\Strategia\bin\Debug\net6.0\Strategia.pdb
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.dll
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\refint\Strategia.dll
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.pdb
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\Strategia.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Strategia\Strategia\obj\Debug\net6.0\ref\Strategia.dll
