@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\net6.0\LancuchZobowiazan.exe
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\net6.0\LancuchZobowiazan.deps.json
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\net6.0\LancuchZobowiazan.runtimeconfig.json
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\net6.0\LancuchZobowiazan.dll
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\net6.0\LancuchZobowiazan.pdb
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.dll
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\refint\LancuchZobowiazan.dll
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.pdb
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\LancuchZobowiazan.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\net6.0\ref\LancuchZobowiazan.dll

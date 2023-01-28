@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\bin\Debug\net6.0\Polecenie.exe
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\bin\Debug\net6.0\Polecenie.deps.json
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\bin\Debug\net6.0\Polecenie.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\bin\Debug\net6.0\Polecenie.dll
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\bin\Debug\net6.0\Polecenie.pdb
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.dll
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\refint\Polecenie.dll
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.pdb
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\Polecenie.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Polecenie\Polecenie\obj\Debug\net6.0\ref\Polecenie.dll

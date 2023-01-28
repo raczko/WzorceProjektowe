@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\Stan\Stan\bin\Debug\net6.0\Stan.exe
+C:\Users\Wiktor\source\repos\Stan\Stan\bin\Debug\net6.0\Stan.deps.json
+C:\Users\Wiktor\source\repos\Stan\Stan\bin\Debug\net6.0\Stan.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Stan\Stan\bin\Debug\net6.0\Stan.dll
+C:\Users\Wiktor\source\repos\Stan\Stan\bin\Debug\net6.0\Stan.pdb
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.dll
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\refint\Stan.dll
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.pdb
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\Stan.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Stan\Stan\obj\Debug\net6.0\ref\Stan.dll
